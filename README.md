@@ -1,5 +1,4 @@
 # shop-logs-bot
------------------------------------------
 Functional:
 -----------------------------------------
 The user has
@@ -9,6 +8,7 @@ Replenishment of the balance with crypt
 Promo code system
 
 Purchase of goods
+
 -----------------------------------------
 Admin Panel
 -----------------------------------------
@@ -25,6 +25,7 @@ Adding/removing categories
 Addendum/Deleting an item
 
 Adding/removing promo code
+
 -----------------------------------------
 Instructions:
 -----------------------------------------
