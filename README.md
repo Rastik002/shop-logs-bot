@@ -1,6 +1,7 @@
 # shop-logs-bot
-
+-----------------------------------------
 Functional:
+-----------------------------------------
 The user has
 
 Replenishment of the balance with crypt
@@ -8,9 +9,9 @@ Replenishment of the balance with crypt
 Promo code system
 
 Purchase of goods
-
+-----------------------------------------
 Admin Panel
-
+-----------------------------------------
 Ban/Unban
 
 Mailing
@@ -24,8 +25,9 @@ Adding/removing categories
 Addendum/Deleting an item
 
 Adding/removing promo code
-
+-----------------------------------------
 Instructions:
+-----------------------------------------
 In the misc folder in the configuration file.py fill in all the data
 
 Installing Libraries:
